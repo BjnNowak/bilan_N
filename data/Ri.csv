@@ -1,41 +1,41 @@
-﻿soil;previous;Mh
-Alluvions;Betterave sucrière;45
-Argilo-calcaire moyen à profond;Betterave sucrière;60
-Argilo-calcaire superficiel;Betterave sucrière;60
-Argilo-sableux;Betterave sucrière;50
-Limons sableux hydromorphes;Betterave sucrière;30
-Sableux;Betterave sucrière;25
-Terres noires;Betterave sucrière;65
-Granitique;Betterave sucrière;40
-Alluvions;Maïs grain;40
-Argilo-calcaire moyen à profond;Maïs grain;65
-Argilo-calcaire superficiel;Maïs grain;55
-Argilo-sableux;Maïs grain;45
-Limons sableux hydromorphes;Maïs grain;30
-Sableux;Maïs grain;25
-Terres noires;Maïs grain;65
-Granitique;Maïs grain;40
-Alluvions;Céréales pailles enfouies;45
-Argilo-calcaire moyen à profond;Céréales pailles enfouies;70
-Argilo-calcaire superficiel;Céréales pailles enfouies;60
-Argilo-sableux;Céréales pailles enfouies;45
-Limons sableux hydromorphes;Céréales pailles enfouies;35
-Sableux;Céréales pailles enfouies;35
-Terres noires;Céréales pailles enfouies;70
-Granitique;Céréales pailles enfouies;40
-Alluvions;Céréales pailles enlevées;41
-Argilo-calcaire moyen à profond;Céréales pailles enlevées;75
-Argilo-calcaire superficiel;Céréales pailles enlevées;65
-Argilo-sableux;Céréales pailles enlevées;55
-Limons sableux hydromorphes;Céréales pailles enlevées;35
-Sableux;Céréales pailles enlevées;35
-Terres noires;Céréales pailles enlevées;75
-Granitique;Céréales pailles enlevées;40
-Alluvions;Colza;50
-Argilo-calcaire moyen à profond;Colza;65
-Argilo-calcaire superficiel;Colza;65
-Argilo-sableux;Colza;60
-Limons sableux hydromorphes;Colza;30
-Sableux;Colza;30
-Terres noires;Colza;65
-Granitique;Colza;40
+soil	previous	Mh
+Alluvions	Betterave sucriere	45
+Argilo-calcaire moyen a profond	Betterave sucriere	60
+Argilo-calcaire superficiel	Betterave sucriere	60
+Argilo-sableux	Betterave sucriere	50
+Limons sableux hydromorphes	Betterave sucriere	30
+Sableux	Betterave sucriere	25
+Terres noires	Betterave sucriere	65
+Granitique	Betterave sucriere	40
+Alluvions	Mais grain	40
+Argilo-calcaire moyen a profond	Mais grain	65
+Argilo-calcaire superficiel	Mais grain	55
+Argilo-sableux	Mais grain	45
+Limons sableux hydromorphes	Mais grain	30
+Sableux	Mais grain	25
+Terres noires	Mais grain	65
+Granitique	Mais grain	40
+Alluvions	Cereales pailles enfouies	45
+Argilo-calcaire moyen a profond	Cereales pailles enfouies	70
+Argilo-calcaire superficiel	Cereales pailles enfouies	60
+Argilo-sableux	Cereales pailles enfouies	45
+Limons sableux hydromorphes	Cereales pailles enfouies	35
+Sableux	Cereales pailles enfouies	35
+Terres noires	Cereales pailles enfouies	70
+Granitique	Cereales pailles enfouies	40
+Alluvions	Cereales pailles enlevees	41
+Argilo-calcaire moyen a profond	Cereales pailles enlevees	75
+Argilo-calcaire superficiel	Cereales pailles enlevees	65
+Argilo-sableux	Cereales pailles enlevees	55
+Limons sableux hydromorphes	Cereales pailles enlevees	35
+Sableux	Cereales pailles enlevees	35
+Terres noires	Cereales pailles enlevees	75
+Granitique	Cereales pailles enlevees	40
+Alluvions	Colza	50
+Argilo-calcaire moyen a profond	Colza	65
+Argilo-calcaire superficiel	Colza	65
+Argilo-sableux	Colza	60
+Limons sableux hydromorphes	Colza	30
+Sableux	Colza	30
+Terres noires	Colza	65
+Granitique	Colza	40
